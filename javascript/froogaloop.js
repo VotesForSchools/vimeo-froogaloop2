@@ -258,3 +258,5 @@ var Froogaloop = (function(){
     return (window.Froogaloop = window.$f = Froogaloop);
 
 })();
+
+module.exports = Froogaloop
